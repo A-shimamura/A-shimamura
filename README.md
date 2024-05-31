@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-はじめまして。嶋村碧といいます。
+はじめまして。嶋村碧といいます。  
+C#をメインに勉強しています。

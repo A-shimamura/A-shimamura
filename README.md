@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 はじめまして。嶋村碧といいます。  
-C#をメインです。
+C#メインです。
